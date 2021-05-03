@@ -18,5 +18,6 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/sundowndev/dorkgen v1.2.0
 	github.com/swaggo/swag v1.7.0
+	golang.org/x/tools/gopls v0.6.10 // indirect
 	gopkg.in/h2non/gock.v1 v1.0.16
 )
